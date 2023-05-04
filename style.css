@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: black;
     background: linear-gradient(to bottom right, rgba(193, 183, 194, 0.2), rgba(5, 91, 91, .2));
 }
 
